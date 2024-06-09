@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MJStylizedUI",
+	"Description": "Extra widgets and code for creating stylized UI.",
+	"Category": "UI",
+	"CreatedBy": "Mark Judkins",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MJStylizedUI",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
